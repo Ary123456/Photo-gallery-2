@@ -1,0 +1,57 @@
+.menu {
+    color: black;
+    font-family: tahoma;
+    margin-left: 200px;
+    background-color: black;
+     width: 250px;
+    
+    font-size: 30;
+}
+
+.menu2 {
+    color: black;
+    font-family: tahoma;
+    margin-left:700px;
+    background-color: black;
+    width: 400px;
+    font-size: 30;
+    
+}
+
+.menu3 {
+    color: black;
+    font-family: tahoma;
+    margin-left: 1400px;
+    background-color: black;
+     width: 400px;
+    
+    font-size: 30;
+}
+#hom{
+color: chartreuse;
+     font-family: tahoma;
+}
+#gri{
+color: chartreuse;
+     font-family: tahoma;
+}
+#sli{
+color: chartreuse;
+     font-family: tahoma;
+}
+body{
+background: linear-gradient(#03d3fc, #0367fc,#3bccbe);     
+}
+#tit{
+text-align: center;
+font-size: 40;
+}
+#welcome{
+margin-left: 450px;
+width: 990px    
+}
+#car{
+width: 400px;
+height: 400px;
+margin-left: 50px;    
+}
